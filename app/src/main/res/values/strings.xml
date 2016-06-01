@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">Walking Guard</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+
+<!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <!--Menu Title-->
+    <string name="menu_iNdex">首頁</string>
+    <string name="menu_20Step">20步不能滑</string>
+    <string name="step_txv1">今日已走了</string>
+    <string name="step_txv2">步</string>
+    <string name="menu_appList">App清單設定</string>
+    <string name="menu_abc123">狀態紀錄</string>
+    <string name="menu_abc1234">未知</string>
+    <string name="menu_about">關於</string>
+    <string name="about_txv1">設定</string>
+    <string name="about_txv2">通知</string>
+    <string name="about_on">開</string>
+    <string name="about_off">關</string>
+    <string name="about_txv3">限制步數</string>
+
+    <string name="stats_totalstep">總 步 數</string>
+    <string name="stats_todaystep">今 天 走 了</string>
+    <string name="stats_distance">行 走 距 離</string>
+    <string name="stats_usephonetime">使 用 手 機 時 間</string>
+    <string name="stats_km">公 里</string>
+    <string name="stats_hr">小 時</string>
+
+</resources>
